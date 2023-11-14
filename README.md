@@ -19,3 +19,9 @@ NOTE:
 The app will be displayed on all virtual desktops.
 The app will be displayed on top of all athor programs.
 
+CREDITS:
+Built with the help of C# wrapper created by Grabacr07. 
+https://github.com/Grabacr07/VirtualDesktop/
+
+If you wish to create your own version, you can find the package here:
+https://www.nuget.org/packages/VirtualDesktop
