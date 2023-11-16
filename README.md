@@ -26,7 +26,7 @@ When minimal mode is off, you can use features like quick switch, quick notes an
 
 ![Full Mode of Quick Switch Virtual Desktop](https://github.com/ananthananth/quick-switch-virtual-desktop/blob/main/img/qs1.png)
 
-## Learn more On Youtube
+## Learn more on Youtube
 
 [![Watch the video](https://img.youtube.com/vi/I4g_EtUJna4/hqdefault.jpg)](https://www.youtube.com/embed/I4g_EtUJna4)
 
