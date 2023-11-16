@@ -3,7 +3,7 @@ Quickly switch between desktops with a button. For Windows users who use virtual
 
 ![Minimal Mode of Quick Switch Virtual Desktop](https://github.com/ananthananth/quick-switch-virtual-desktop/blob/main/img/qs2.png)
 
-#USES
+# What is it
 
 Useful if you are working with multiple virtual desktops in Windows.
 It also shows the desktop number you are currently in.
