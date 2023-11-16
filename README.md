@@ -8,7 +8,7 @@ It also shows the desktop number you are currently in.
 
 HOW TO USE:
 
-Set the first desktop number and secand desktop number in the text bokes.
+Set the first desktop number and secand desktop number in the text boxes.
 
 Whenever you click the SWITCH button, it will switch to first desktop, or to the second desktop, alternatively.
 
